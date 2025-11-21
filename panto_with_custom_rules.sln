@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "panto_with_custom_rules", "panto_with_custom_rules.csproj", "{99C62DC2-4EED-3ACD-73F1-824A9337F5A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99C62DC2-4EED-3ACD-73F1-824A9337F5A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99C62DC2-4EED-3ACD-73F1-824A9337F5A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99C62DC2-4EED-3ACD-73F1-824A9337F5A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99C62DC2-4EED-3ACD-73F1-824A9337F5A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C3C6D9B-997F-43FE-99B5-0255694B4878}
+	EndGlobalSection
+EndGlobal
